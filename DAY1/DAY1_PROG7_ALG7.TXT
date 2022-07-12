@@ -1,0 +1,7 @@
+7>ALGORITHM:PALINDROME OR NOT
+	1)We are taking the variable as temp,number,rem and rev.
+	2)First we have to store that number into temp varaible.
+	3)if the remainder is greater than zero only it will enter into the condition.
+	4)Like,rev=rev*10+rem and number is stored in rev.
+	5)Check if temp is equality of rev only it will print as palindrome.
+	6)Otherwise it will print as Not palindrome.
