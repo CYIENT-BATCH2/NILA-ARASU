@@ -1,0 +1,3 @@
+H1>ALGORITHM:CONDITIONAL OPERATOR
+	1)According to their requirements we have to find biggest number using conditional operator.
+	2)if x value is greater than y,print y value is bigger else x value is bigger.
